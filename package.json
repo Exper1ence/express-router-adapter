@@ -1,0 +1,8 @@
+{
+  "name": "express-router-adapter",
+  "version": "0.1.0",
+  "dependencies": {
+    "dynamic-object-generator": "^0.2.1",
+    "express": "^4.14.0"
+  }
+}
